@@ -1,0 +1,7 @@
+{
+  "name": "ui-polish-loop",
+  "version": "0.1.0",
+  "description": "Screenshot every screen, have blind raters score it against your rubric, fix root causes, repeat",
+  "author": { "name": "Nate Simonsen" },
+  "license": "MIT"
+}

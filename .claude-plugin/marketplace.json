@@ -1,0 +1,6 @@
+{
+  "name": "ui-polish-loop",
+  "owner": { "name": "natejsimonsen" },
+  "description": "UI polish skills for Claude Code",
+  "plugins": [{ "name": "ui-polish-loop", "source": "./" }]
+}
