@@ -19,6 +19,12 @@ As a plugin, in a Claude Code session:
 
 Answer `y` to add the marketplace, then pick the user scope.
 
+Or from a shell, in one line:
+
+```
+claude plugin marketplace add natejsimonsen/ui-polish-loop && claude plugin install ui-polish-loop@ui-polish-loop
+```
+
 Or as a plain skill:
 
 ```
